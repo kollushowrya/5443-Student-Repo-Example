@@ -45,6 +45,7 @@ This project will use a logistical regression technique and your choice of libar
 
 - &#128193; assignments 
     - &#128193; `process_single_lot`
+        - &#x21b3; `lot_image_with_lines.jpg`
         - &#128193; `spaces`
         - &#128193; `histograms`
     - &#x21b3; `process_lot.py`
